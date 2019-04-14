@@ -17,10 +17,13 @@ Once you’re done, throw the code on github with instructions on how to deploy 
 
 To complete this project I have created one trigger and two classes and one test class that should be downloaded and committed in SFDC Developer Org in this order
 
-1.HasRun.apxc /n
-2.AddContactNote.apxc /n
-3.OpportunityTrigger.apxt /n
-4.testAddContactNote.apxc /n
+1.HasRun.apxc
+
+2.AddContactNote.apxc 
+
+3.OpportunityTrigger.apxt 
+
+4.testAddContactNote.apxc
 
 In order to test this you must download a new developer org
 
