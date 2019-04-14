@@ -1,4 +1,3 @@
-###############################################################################################
 # KLOVE_Homework
 
 The following requirements where submitted by Nancy from KLOVE Recruiting on 4/11/19
