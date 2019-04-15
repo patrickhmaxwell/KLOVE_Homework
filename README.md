@@ -25,6 +25,8 @@ To complete this project I have created one trigger and two classes and one test
 
 4.testAddContactNote.apxc
 
+I used Eclipse IDE to create these files and uploaded them to GitHub
+
 In order to test this you must download a new developer org
 
 https://developer.salesforce.com/signup
@@ -35,4 +37,4 @@ https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3000000B5Gx6EA
 
 Once dowloaded one small change must be made.  The Record Type on Opportunity Object must be updated from the standard NPSP name to Donation OR you can clone the NSPS Record Type and create a new Record Type called Donation.  If you choose to do this, you will be required to update the settings on the NPSP so that Recurring Donations automatically create opportunities with the Record Type Donation and not the NPSP record type (which is default)
 
-Please reach out to me at patrickhmaxwell+klove@gmail.com if you have more questions or you find that these instructions are not thorough enough.
+Please reach out to me at patrickhmaxwell@gmail.com if you have more questions or you find that these instructions are not thorough enough.
