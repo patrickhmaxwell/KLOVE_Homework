@@ -15,6 +15,8 @@ Bonus: Apex Unit Tests with at least 75% code coverage (please include asserts)
 
 Once you’re done, throw the code on github with instructions on how to deploy to an org and email me and Shaun a link.
 
+-------------------------------------------------------
+
 To complete this project I have created one trigger and two classes and one test class that should be downloaded and committed in SFDC Developer Org in this order
 
 1.HasRun.apxc
