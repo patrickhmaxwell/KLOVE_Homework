@@ -40,3 +40,9 @@ https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3000000B5Gx6EA
 Once dowloaded one small change must be made.  The Record Type on Opportunity Object must be updated from the standard NPSP name to Donation OR you can clone the NSPS Record Type and create a new Record Type called Donation.  If you choose to do this, you will be required to update the settings on the NPSP so that Recurring Donations automatically create opportunities with the Record Type Donation and not the NPSP record type (which is default)
 
 Please reach out to me at patrickhmaxwell@gmail.com if you have more questions or you find that these instructions are not thorough enough.
+
+**********************************
+
+Update on 4-26-2019
+
+I have committed a full SFDC project to Git.  This project includes the new Lightning Component that could be used to fix Nick's issue with phone support not being informed about if family members are deceased or not.  I also added a field the displays if someone is the head of the household, and if they are not, what their relationship is with the head of the household.
