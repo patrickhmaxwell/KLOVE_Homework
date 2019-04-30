@@ -7,11 +7,12 @@ public class AddContactNote {
     public AddContactNote(map<Id, Opportunity> newTriggerMap){
 
         newMap = newTriggerMap;
+        //save
 
     }// end constructor
     
     public void createNote () {
-    	//system.debug('createNote Begins');
+        //system.debug('createNote Begins');
         
         //HasRun class used to prevent recursion
         if(!HasRun.createNoteHasRun){
